@@ -21,4 +21,4 @@
 Данные о ВВП Ганы с 1960 по 2021 г [ghana_gdp.zip](https://drive.google.com/file/d/1U9T3OYmC3E2hARKBc_HXyPwlH3TOOEW4/view?usp=sharing)  
 Размер:901 байт  
   
-:arrow_up: [к оглавлению](https://github.com/PavelNovikov888/sf_data_science/tree/main/sf_data_science/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9%20%D0%BD%D0%B0%20hh.ru#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+:arrow_up: [к оглавлению](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%92%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D1%80%D1%8F%D0%B4%D1%8B/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%92%D0%92%D0%9F%20%D0%93%D0%B0%D0%BD%D1%8B#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
