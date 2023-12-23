@@ -2,9 +2,9 @@
 ### Практическая работа
 ---------
 ## Оглавление
-[1.Описание]()   
-[2.Справочная информация]()   
-[3.Резюме]()
+[1.Описание](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F#1%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)   
+[2.Справочная информация](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F#2%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)   
+[3.Резюме](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)
 
 ## 1.Описание
 Пожалуй, каждый из нас практически ежедневно смотрит прогноз погоды: будет сегодня тепло или холодно, брать ли зонт?  
@@ -49,4 +49,4 @@
  Humidity9am: влажность в 9 утра  
  Cloud9am: часть неба, закрытая облаками, в 9 утра  
  Pressure3pm: атмосферное давление в 3 часа дня  
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9%20%D0%BB%D0%B5%D1%81/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BE%D0%B6%D0%B4%D1%8F#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
