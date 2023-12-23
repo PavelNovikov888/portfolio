@@ -2,9 +2,9 @@
 ### Практическая работа
 ---------
 ## Оглавление
-[1.Описание]()   
-[2.Справочная информация]()   
-[3.Резюме]()
+[1.Описание](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0#1%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5)   
+[2.Справочная информация](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0#2%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F)   
+[3.Резюме](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0#%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5)
 
 ## 1.Описание 
 MDB - это датасет по классификации эмоциональной окраски.  
@@ -38,4 +38,4 @@ MDB - это датасет по классификации эмоциональ
 Так же как и 2 вариант(LinearSVM + векторизатор TF-IDF) с меньшим, чем у Baseline качеством и значительным увеличением времени выполнения.  
 3 вариант реализации(LogisticRegression() + N-грамма в векторизаторе TF-IDF) хоть и дает выигрыш в качестве предсказания на 1.1%, однако времени затрачивает 6.7% больше.  
 Следовательно вариант реализации модели Baseline(LogisticRegression()) представляется наиболее оптимальным.  
-:arrow_up: [к оглавлению]()
+:arrow_up: [к оглавлению](https://github.com/PavelNovikov888/portfolio/tree/master/%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%85%D0%B0%D1%80%D0%B0%D0%BA%D1%82%D0%B5%D1%80%D0%B0%20%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D0%B0#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
